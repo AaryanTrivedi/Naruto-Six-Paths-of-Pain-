@@ -1,0 +1,103 @@
+<!DOCTYPE>
+<html>
+	<head>
+	<style>
+		* {
+			margin: 0;
+			padding: 0;
+		}
+		body {
+			margin-right: 18%;
+			margin-left: 18%;
+			background-color: #33334d;
+			background-repeat: no-repeat;
+			background-size: cover;
+			color: white;
+			font-family: "Agency FB";
+		}
+		h1 {
+			font-size: 5em;
+			text-align: center;
+			letter-spacing: 3px;
+		}
+		h2 {
+			font-size: 3em;
+		}
+		p {
+			font-size: 25px;
+			text-indent: 1em;
+		}
+		.paths {
+			float: left;
+			width: 23%;
+			margin-right: 20px;
+			margin-bottom: 20px;
+		}
+		.nagatopicture {
+			float: left;
+			width: 23%;
+			margin-right: 20px;
+			margin-bottom: 8px;
+		}
+		figcaption
+		{
+			font-size: 2.5em;
+		}
+		figure img {
+			margin-left: auto;
+			margin-right: auto;
+			display: block;
+			width: 130px;
+		}
+		figcaption {
+			text-align: center;
+		}
+		.painroom {
+			float: left;
+			width: 25%;
+			margin-right: 20px;
+			margin-bottom: 10px;
+		}
+		h3 {
+			font-size: 1.5em;
+		}
+		a {
+			text-decoration: none;
+		}
+		.deva {
+			width: 15em;
+			height: 10em;
+		}
+		.asura {
+			width: 15em;
+			height: 10em;
+		}
+		.human {
+			width: 15em;
+			height: 10em;
+		}
+		.animal {
+			width: 15em;
+			height: 10em;
+		}
+		.preta {
+			width: 15em;
+			height: 10em;
+		}
+		.naraka {
+			width: 15em;
+			height: 10em;
+		}
+		.jin {
+			float: right;
+			margin-left: 20px;
+			margin-bottom: 13px;
+			width: 13em;
+			height: 8em;
+		}
+		.obito {
+			text-align: left;
+		}
+	</style>
+	</head>
+</html>
